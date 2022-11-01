@@ -1,0 +1,30 @@
+{
+  "name": "choferes-sos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laltamiran/Choferes-SOS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laltamiran/Choferes-SOS/issues"
+  },
+  "homepage": "https://github.com/laltamiran/Choferes-SOS#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.41.0",
+    "@typescript-eslint/parser": "^5.41.0",
+    "eslint": "^8.26.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.31.10"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
